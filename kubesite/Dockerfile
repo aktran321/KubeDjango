@@ -1,8 +1,8 @@
 # Use the official Python image from the Docker Hub
-FROM python:3.8-slim
+FROM python:3.12-slim
 
 # Set environment variables
-ENV PYTHONUNBUFFERED 1
+ENV PYTHONUNBUFFERED=1
 
 # Set the working directory
 WORKDIR /app
