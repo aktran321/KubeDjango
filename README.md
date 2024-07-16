@@ -17,7 +17,7 @@ This project demonstrates how to deploy a simple Django application using Docker
 - Basic knowledge of Docker and Kubernetes
 
 ## Setup and Deployment
-For detailed setup and deployment instructions, please refer to my [KubeDjango Blog Post](https://dev.to/aktran321/deploying-a-django-app-to-kubernetes-with-amazon-ecr-and-eks-3736/edit).
+For detailed setup and deployment instructions, please refer to my [KubeDjango Blog Post](https://dev.to/aktran321/deploying-a-django-app-to-kubernetes-with-amazon-ecr-and-eks-3736).
 
 ## Conclusion
 Deploying a Django application using Docker and Kubernetes provides practical experience with modern DevOps practices. This project helps in understanding containerization, orchestration, and cloud deployment.
